@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
 ## About me :mortar_board:
-I am a student, currently receiving the bootcamp from SoyHenry. From very early in my life, I began to fall in love with technology, this love has helped me develop a very good technological mindset and has given me the curiosity to learn more. 
+Currently receiving the bootcamp from SoyHenry. From very early in my life, I began to fall in love with technology, this love has helped me develop a very good technological mindset and has given me the curiosity to learn more. 
 
 - 🌱 I’m currently learning **TypeScript and ReactNative**
 
